@@ -1,3 +1,3 @@
 function sl
-	command sl -e
+	command sl -e $argv
 end
